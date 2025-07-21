@@ -7,7 +7,7 @@
 
 body {
 
-    overflow-x:hidden;
+    overflow:hidden;
 }
 
 .content {
@@ -48,8 +48,8 @@ body {
     margin: 10px;
 }
 
-#menu input, button {
-    border-radius: 7px;
+menu input, button {
+    border-radius:5px
 }
 
 #menu button {
